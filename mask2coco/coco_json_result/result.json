@@ -1,0 +1,119 @@
+{
+  "licenses": [
+    {
+      "url": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+      "name": "Attribution-NonCommercial-ShareAlike License",
+      "id": 1
+    }
+  ],
+  "annotations": [
+    {
+      "segmentation": [
+        [
+          274.0,
+          599.5,
+          82.5,
+          449.0,
+          509.0,
+          195.5,
+          671.5,
+          296.0,
+          463.0,
+          455.5,
+          397.0,
+          462.5,
+          376.5,
+          506.0,
+          374.5,
+          523.0,
+          274.0,
+          599.5
+        ]
+      ],
+      "iscrowd": 0,
+      "height": 800,
+      "bbox": [
+        83.0,
+        196.0,
+        589.0,
+        404.0
+      ],
+      "id": 1,
+      "width": 800,
+      "area": 98944,
+      "image_id": 1,
+      "category_id": 1
+    },
+    {
+      "segmentation": [
+        [
+          506.0,
+          628.5,
+          412.0,
+          605.5,
+          370.5,
+          560.0,
+          376.5,
+          506.0,
+          397.0,
+          462.5,
+          480.0,
+          454.5,
+          553.0,
+          471.5,
+          603.5,
+          531.0,
+          603.5,
+          581.0,
+          506.0,
+          628.5
+        ]
+      ],
+      "iscrowd": 0,
+      "height": 800,
+      "bbox": [
+        371.0,
+        455.0,
+        233.0,
+        174.0
+      ],
+      "id": 2,
+      "width": 800,
+      "area": 30735,
+      "image_id": 1,
+      "category_id": 2
+    }
+  ],
+  "info": {
+    "date_created": "2020-12-27 15:28:33.844338",
+    "version": "0.1.0",
+    "description": "Example Dataset",
+    "url": "https://github.com/waspinator/pycococreator",
+    "contributor": "waspinator",
+    "year": 2018
+  },
+  "categories": [
+    {
+      "name": "keyboard",
+      "id": 1,
+      "supercategory": "hardware"
+    },
+    {
+      "name": "mouse",
+      "id": 2,
+      "supercategory": "hardware"
+    }
+  ],
+  "images": [
+    {
+      "height": 800,
+      "date_captured": "2020-12-27 15:28:33.835975",
+      "coco_url": "",
+      "flickr_url": "",
+      "id": 1,
+      "width": 800,
+      "license": 1,
+      "file_name": "1.png"
+    }
+  ]
+}
